@@ -7,4 +7,4 @@ Hi, I’m Amandeep — known online as **amanyx**.
 
 Full Stack Developer | React | Node.js
 
-<a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=wide&r=c7n" width="652" alt="Aman's Dev Card"/></a>
+<a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=default&r=1ar" width="356" alt="Aman's Dev Card"/></a>
